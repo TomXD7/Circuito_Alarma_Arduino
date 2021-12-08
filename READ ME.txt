@@ -1,0 +1,8 @@
+-Para agregar las librerias se debera acceder 
+a la siguiente ruta: C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY
+para cada sensor debera seleccionar su correspodiente libreria en la ruta anterior.
+
+-El codigo hecho en Arduino CODE debera ser importaba como un archivo .HEX
+y se debera de incomporar en el componente Arduino en Proteus.
+
+Y ya con eso podemos ejecutar el proyecto!!!!
